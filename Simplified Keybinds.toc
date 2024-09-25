@@ -1,0 +1,7 @@
+## Interface: 110000
+## Title: Simplified Keybinds
+## Description: Simplifies keybinding names - "Shift-1" to "S1"
+## Author: zachbharris
+## Version: 1.0
+
+core.lua
